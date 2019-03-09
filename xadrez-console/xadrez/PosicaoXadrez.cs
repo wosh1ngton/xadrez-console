@@ -21,5 +21,7 @@ namespace xadrez
         {
             return "" + Coluna + Linha;
         }
+
+
     }
 }
